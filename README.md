@@ -16,7 +16,8 @@ skill_status: 操作印象
 
 ## 下载
 
-[下载钉笺 V0.14.3（macOS）](https://github.com/lucxixi/Ding/releases/tag/v0.14.3)
+- [下载钉笺 V0.14.3 DMG](https://github.com/lucxixi/Ding/raw/refs/heads/main/downloads/%E9%92%89%E7%AC%BA-macOS-0.14.3.dmg)
+- [下载钉笺 V0.14.3 ZIP](https://github.com/lucxixi/Ding/raw/refs/heads/main/downloads/%E9%92%89%E7%AC%BA-macOS-0.14.3.zip)
 
 优先下载 DMG，将 `钉笺.app` 拖入“应用程序”。当前版本采用本地临时签名，首次打开如被 macOS 拦截，请在 Finder 中右键应用并选择“打开”。
 
