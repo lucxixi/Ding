@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>zh_CN</string>
+    <key>CFBundleExecutable</key>
+    <string>PinnedNote</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.firehua.pinnednote</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>钉笺</string>
+    <key>CFBundleDisplayName</key>
+    <string>钉笺</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+	<string>0.14.3</string>
+    <key>CFBundleVersion</key>
+	<string>24</string>
+    <key>NSCalendarsWriteOnlyAccessUsageDescription</key>
+    <string>钉笺需要把你的日程、待办和专注计时记录写入 Apple 日历，便于你在时间轴中回看。</string>
+    <key>NSCalendarsUsageDescription</key>
+    <string>钉笺需要把你的计时记录写入 Apple 日历。</string>
+    <key>LSUIElement</key>
+    <true/>
+    <key>LSMinimumSystemVersion</key>
+    <string>13.0</string>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+</dict>
+</plist>
